@@ -1,2 +1,3 @@
 sword ans spear
 wall of shields
+did commit 3
