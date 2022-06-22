@@ -3,4 +3,3 @@ wall of shields
 did commit 3
 
 did commit 4
-some content!
